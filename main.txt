@@ -1,0 +1,29 @@
+<i  class="fa-solid fa- fa-gears"></i> - settings
+
+<i class="fa-solid fa-user"></i> - user
+
+<i class="fa-solid fa-envelope"></i> - message
+
+<i class="fa-solid fa-star"></i> - star
+
+<i class="fa-solid fa-circle-plus"></i> - plus
+
+
+<i class="fa-solid fa-paper-plane"></i> - send
+
+<i class="fa-regular fa-calendar"></i> - calndar
+
+<i class="fa-solid fa-arrow-trend-up"></i> - trend up
+
+<i class="fa-solid fa-comment"></i> - comment
+<i class="fa-regular fa-eye"></i> - eye pm
+
+<i class="fa-solid fa-heart"></i> - heart
+
+<i class="fa-solid fa-lock"></i> - password
+
+<i class="fa-solid fa-cloud"></i> - weather
+
+<i class="fa-solid fa-location-pin"></i> - loaction
+
+<i class="fa-brands fa-facebook"></i> - facebookssssssssssssssss

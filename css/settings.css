@@ -1,0 +1,12 @@
+.settings-main{
+    width: 1230px;
+    margin: 0 auto;
+}
+
+.settings-title{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+

@@ -1,0 +1,53 @@
+.weather-tiitle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
+    background-color: #cf2f49;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+
+.uzb {
+    margin-left: 5px;
+}
+
+
+.test1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+
+.info-gradus {
+    background-color: #e84a63;
+    background-image: linear-gradient(110deg,#cf2f49  50%, #cf2f4aab 50%);
+    color: white;
+    height: 80%;
+    margin-bottom: 1px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
+.txt{
+    font-size: 12px;
+}
+
+.gradus {
+    font-size: 70px;
+}
+
+.gradus sup {
+    font-size: 45px;
+    position: relative;
+    right: 10px;
+    bottom: 10px;
+}
+
+.fa-cloud-sun {
+    color: #fff;
+    font-size: 90px;
+}

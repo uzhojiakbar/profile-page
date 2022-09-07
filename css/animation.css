@@ -1,0 +1,1726 @@
+.fa-heart {
+    animation: heart .7s infinite;
+}
+
+@keyframes heart {
+    0% {
+        color: red;
+    }
+
+    100% {
+
+        color: white;
+    }
+}
+
+.ull::after {
+    content: '100';
+    animation: raqam 6s 1;
+}
+
+
+@keyframes raqam {
+    1% {
+        content: '1';
+    }
+
+    2% {
+        content: '2';
+    }
+
+    3% {
+        content: '3';
+    }
+
+    4% {
+        content: '4';
+    }
+
+    5% {
+        content: '5';
+    }
+
+    6% {
+        content: '6';
+    }
+
+    7% {
+        content: '7';
+    }
+
+    8% {
+        content: '8';
+    }
+
+    9% {
+        content: '9';
+    }
+
+    10% {
+        content: '10';
+    }
+
+    11% {
+        content: '11';
+    }
+
+    12% {
+        content: '12';
+    }
+
+    13% {
+        content: '13';
+    }
+
+    14% {
+        content: '14';
+    }
+
+    15% {
+        content: '15';
+    }
+
+    16% {
+        content: '16';
+    }
+
+    17% {
+        content: '17';
+    }
+
+    18% {
+        content: '18';
+    }
+
+    19% {
+        content: '19';
+    }
+
+    20% {
+        content: '20';
+    }
+
+    21% {
+        content: '21';
+    }
+
+    22% {
+        content: '22';
+    }
+
+    23% {
+        content: '23';
+    }
+
+    24% {
+        content: '24';
+    }
+
+    25% {
+        content: '25';
+    }
+
+    26% {
+        content: '26';
+    }
+
+    27% {
+        content: '27';
+    }
+
+    28% {
+        content: '28';
+    }
+
+    29% {
+        content: '29';
+    }
+
+    30% {
+        content: '30';
+    }
+
+    31% {
+        content: '31';
+    }
+
+    32% {
+        content: '32';
+    }
+
+    33% {
+        content: '33';
+    }
+
+    34% {
+        content: '34';
+    }
+
+    35% {
+        content: '35';
+    }
+
+    36% {
+        content: '36';
+    }
+
+    37% {
+        content: '37';
+    }
+
+    38% {
+        content: '38';
+    }
+
+    40% {
+        content: '40';
+    }
+
+    41% {
+        content: '41';
+    }
+
+    42% {
+        content: '42';
+    }
+
+    43% {
+        content: '43';
+    }
+
+    44% {
+        content: '44';
+    }
+
+    45% {
+        content: '45';
+    }
+
+    46% {
+        content: '46';
+    }
+
+    47% {
+        content: '47';
+    }
+
+    48% {
+        content: '48';
+    }
+
+    49% {
+        content: '49';
+    }
+
+    50% {
+        content: '50';
+    }
+
+    51% {
+        content: '51';
+    }
+
+    52% {
+        content: '52';
+    }
+
+    53% {
+        content: '53';
+    }
+
+    54% {
+        content: '54';
+    }
+
+    55% {
+        content: '55';
+    }
+
+    56% {
+        content: '56';
+    }
+
+    57% {
+        content: '57';
+    }
+
+    58% {
+        content: '58';
+    }
+
+    59% {
+        content: '59';
+    }
+
+    60% {
+        content: '60';
+    }
+
+    61% {
+        content: '61';
+    }
+
+    62% {
+        content: '62';
+    }
+
+    63% {
+        content: '63';
+    }
+
+    64% {
+        content: '64';
+    }
+
+    65% {
+        content: '65';
+    }
+
+    66% {
+        content: '66';
+    }
+
+    67% {
+        content: '67';
+    }
+
+    68% {
+        content: '68';
+    }
+
+    69% {
+        content: '69';
+    }
+
+    70% {
+        content: '70';
+    }
+
+    71% {
+        content: '71';
+    }
+
+    72% {
+        content: '72';
+    }
+
+    73% {
+        content: '73';
+    }
+
+    74% {
+        content: '74';
+    }
+
+    75% {
+        content: '75';
+    }
+
+    76% {
+        content: '76';
+    }
+
+    77% {
+        content: '77';
+    }
+
+    78% {
+        content: '78';
+    }
+
+    79% {
+        content: '79';
+    }
+
+    80% {
+        content: '80';
+    }
+
+    81% {
+        content: '81';
+    }
+
+    82% {
+        content: '82';
+    }
+
+    83% {
+        content: '83';
+    }
+
+    84% {
+        content: '84';
+    }
+
+    85% {
+        content: '85';
+    }
+
+    86% {
+        content: '86';
+    }
+
+    87% {
+        content: '87';
+    }
+
+    88% {
+        content: '88';
+    }
+
+    89% {
+        content: '89';
+    }
+
+    90% {
+        content: '90';
+    }
+
+    91% {
+        content: '91';
+    }
+
+    92% {
+        content: '92';
+    }
+
+    93% {
+        content: '93';
+    }
+
+    94% {
+        content: '94';
+    }
+
+    95% {
+        content: '95';
+    }
+
+    96% {
+        content: '96';
+    }
+
+    97% {
+        content: '97';
+    }
+
+    98% {
+        content: '98';
+    }
+
+    99% {
+        content: '99';
+    }
+
+    100% {
+        content: '100';
+    }
+}
+
+.view::after {
+    content: '1000';
+    animation: raqamv 6s 1;
+}
+
+@keyframes raqamv {
+    1% {
+        content: '10';
+    }
+
+    2% {
+        content: '20';
+    }
+
+    3% {
+        content: '30';
+    }
+
+    4% {
+        content: '40';
+    }
+
+    5% {
+        content: '41';
+    }
+
+    6% {
+        content: '42';
+    }
+
+    7% {
+        content: '43';
+    }
+
+    8% {
+        content: '8';
+    }
+
+    9% {
+        content: '9';
+    }
+
+    10% {
+        content: '100';
+    }
+
+    11% {
+        content: '101';
+    }
+
+    12% {
+        content: '120';
+    }
+
+    13% {
+        content: '130';
+    }
+
+    14% {
+        content: '140';
+    }
+
+    15% {
+        content: '150';
+    }
+
+    16% {
+        content: '160';
+    }
+
+    17% {
+        content: '170';
+    }
+
+    18% {
+        content: '180';
+    }
+
+    19% {
+        content: '190';
+    }
+
+    20% {
+        content: '200';
+    }
+
+    21% {
+        content: '210';
+    }
+
+    22% {
+        content: '220';
+    }
+
+    23% {
+        content: '230';
+    }
+
+    24% {
+        content: '240';
+    }
+
+    25% {
+        content: '250';
+    }
+
+    26% {
+        content: '260';
+    }
+
+    27% {
+        content: '207';
+    }
+
+    28% {
+        content: '280';
+    }
+
+    29% {
+        content: '290';
+    }
+
+    30% {
+        content: '300';
+    }
+
+    31% {
+        content: '310';
+    }
+
+    320% {
+        content: '320';
+    }
+
+    33% {
+        content: '330';
+    }
+
+    34% {
+        content: '340';
+    }
+
+    35% {
+        content: '350';
+    }
+
+    36% {
+        content: '360';
+    }
+
+    37% {
+        content: '370';
+    }
+
+    38% {
+        content: '380';
+    }
+
+    40% {
+        content: '400';
+    }
+
+    41% {
+        content: '410';
+    }
+
+    42% {
+        content: '420';
+    }
+
+    43% {
+        content: '430';
+    }
+
+    44% {
+        content: '440';
+    }
+
+    45% {
+        content: '450';
+    }
+
+    46% {
+        content: '460';
+    }
+
+    47% {
+        content: '470';
+    }
+
+    48% {
+        content: '480';
+    }
+
+    49% {
+        content: '409';
+    }
+
+    50% {
+        content: '500';
+    }
+
+    54% {
+        content: '540';
+    }
+
+
+    57% {
+        content: '570';
+    }
+
+    58% {
+        content: '580';
+    }
+
+    59% {
+        content: '590';
+    }
+
+    60% {
+        content: '600';
+    }
+
+    61% {
+        content: '610';
+    }
+
+    62% {
+        content: '620';
+    }
+
+    63% {
+        content: '630';
+    }
+
+    66% {
+        content: '660';
+    }
+
+    67% {
+        content: '670';
+    }
+
+    68% {
+        content: '680';
+    }
+
+    69% {
+        content: '690';
+    }
+
+    70% {
+        content: '700';
+    }
+
+    71% {
+        content: '710';
+    }
+
+    72% {
+        content: '720';
+    }
+
+    73% {
+        content: '730';
+    }
+
+    74% {
+        content: '740';
+    }
+
+    75% {
+        content: '750';
+    }
+
+    76% {
+        content: '760';
+    }
+
+    77% {
+        content: '770';
+    }
+
+    78% {
+        content: '780';
+    }
+
+    79% {
+        content: '790';
+    }
+
+    80% {
+        content: '800';
+    }
+
+    81% {
+        content: '810';
+    }
+
+    82% {
+        content: '820';
+    }
+
+    83% {
+        content: '830';
+    }
+
+    84% {
+        content: '840';
+    }
+
+    85% {
+        content: '850';
+    }
+
+    86% {
+        content: '860';
+    }
+
+    87% {
+        content: '870';
+    }
+
+    88% {
+        content: '880';
+    }
+
+    89% {
+        content: '890';
+    }
+
+    90% {
+        content: '900';
+    }
+
+    91% {
+        content: '910';
+    }
+
+    92% {
+        content: '920';
+    }
+
+    93% {
+        content: '930';
+    }
+
+    94% {
+        content: '940';
+    }
+
+    95% {
+        content: '950';
+    }
+
+    96% {
+        content: '960';
+    }
+
+    97% {
+        content: '970';
+    }
+
+    98% {
+        content: '980';
+    }
+
+    99% {
+        content: '990';
+    }
+
+    100% {
+        content: '1000';
+    }
+}
+
+.hearts::after {
+    content: '250';
+    animation: hearts 6s 1;
+}
+
+@keyframes hearts {
+    1% {
+        content: '1';
+    }
+
+    2% {
+        content: '2';
+    }
+
+    3% {
+        content: '3';
+    }
+
+    4% {
+        content: '4';
+    }
+
+    5% {
+        content: '5';
+    }
+
+    6% {
+        content: '6';
+    }
+
+    7% {
+        content: '7';
+    }
+
+    8% {
+        content: '8';
+    }
+
+    9% {
+        content: '9';
+    }
+
+    10% {
+        content: '10';
+    }
+
+    11% {
+        content: '11';
+    }
+
+    12% {
+        content: '12';
+    }
+
+    13% {
+        content: '13';
+    }
+
+    14% {
+        content: '14';
+    }
+
+    15% {
+        content: '15';
+    }
+
+    16% {
+        content: '16';
+    }
+
+    17% {
+        content: '17';
+    }
+
+    18% {
+        content: '18';
+    }
+
+    19% {
+        content: '19';
+    }
+
+    20% {
+        content: '20';
+    }
+
+    21% {
+        content: '21';
+    }
+
+    22% {
+        content: '22';
+    }
+
+    23% {
+        content: '23';
+    }
+
+    24% {
+        content: '24';
+    }
+
+    25% {
+        content: '25';
+    }
+
+    26% {
+        content: '26';
+    }
+
+    27% {
+        content: '27';
+    }
+
+    28% {
+        content: '28';
+    }
+
+    29% {
+        content: '29';
+    }
+
+    30% {
+        content: '30';
+    }
+
+    31% {
+        content: '31';
+    }
+
+    32% {
+        content: '32';
+    }
+
+    33% {
+        content: '33';
+    }
+
+    34% {
+        content: '34';
+    }
+
+    35% {
+        content: '35';
+    }
+
+    36% {
+        content: '36';
+    }
+
+    37% {
+        content: '37';
+    }
+
+    38% {
+        content: '38';
+    }
+
+    40% {
+        content: '40';
+    }
+
+    41% {
+        content: '41';
+    }
+
+    42% {
+        content: '42';
+    }
+
+    43% {
+        content: '43';
+    }
+
+    44% {
+        content: '44';
+    }
+
+    45% {
+        content: '45';
+    }
+
+    46% {
+        content: '46';
+    }
+
+    47% {
+        content: '47';
+    }
+
+    48% {
+        content: '48';
+    }
+
+    49% {
+        content: '49';
+    }
+
+    50% {
+        content: '50';
+    }
+
+    51% {
+        content: '51';
+    }
+
+    52% {
+        content: '52';
+    }
+
+    53% {
+        content: '53';
+    }
+
+    54% {
+        content: '54';
+    }
+
+    55% {
+        content: '55';
+    }
+
+    56% {
+        content: '56';
+    }
+
+    57% {
+        content: '57';
+    }
+
+    58% {
+        content: '58';
+    }
+
+    59% {
+        content: '59';
+    }
+
+    60% {
+        content: '60';
+    }
+
+    61% {
+        content: '61';
+    }
+
+    62% {
+        content: '62';
+    }
+
+    63% {
+        content: '63';
+    }
+
+    64% {
+        content: '64';
+    }
+
+    65% {
+        content: '65';
+    }
+
+    66% {
+        content: '66';
+    }
+
+    67% {
+        content: '67';
+    }
+
+    68% {
+        content: '68';
+    }
+
+    69% {
+        content: '69';
+    }
+
+    70% {
+        content: '70';
+    }
+
+    71% {
+        content: '71';
+    }
+
+    72% {
+        content: '72';
+    }
+
+    73% {
+        content: '73';
+    }
+
+    74% {
+        content: '74';
+    }
+
+    75% {
+        content: '75';
+    }
+
+    76% {
+        content: '76';
+    }
+
+    77% {
+        content: '77';
+    }
+
+    78% {
+        content: '78';
+    }
+
+    79% {
+        content: '79';
+    }
+
+    80% {
+        content: '80';
+    }
+
+    81% {
+        content: '81';
+    }
+
+    82% {
+        content: '82';
+    }
+
+    83% {
+        content: '83';
+    }
+
+    84% {
+        content: '84';
+    }
+
+    85% {
+        content: '85';
+    }
+
+    86% {
+        content: '86';
+    }
+
+    87% {
+        content: '87';
+    }
+
+    88% {
+        content: '88';
+    }
+
+    89% {
+        content: '89';
+    }
+
+    90% {
+        content: '90';
+    }
+
+    91% {
+        content: '91';
+    }
+
+    92% {
+        content: '92';
+    }
+
+    93% {
+        content: '93';
+    }
+
+    94% {
+        content: '94';
+    }
+
+    95% {
+        content: '95';
+    }
+
+    96% {
+        content: '96';
+    }
+
+    97% {
+        content: '97';
+    }
+
+    98% {
+        content: '98';
+    }
+
+    99% {
+        content: '99';
+    }
+
+    100% {
+        content: '100';
+    }
+}
+
+.view::after {
+    content: '1000';
+    animation: raqamv 6s 1;
+}
+
+@keyframes raqamv {
+    1% {
+        content: '10';
+    }
+
+    2% {
+        content: '20';
+    }
+
+    3% {
+        content: '30';
+    }
+
+    4% {
+        content: '40';
+    }
+
+    5% {
+        content: '41';
+    }
+
+    6% {
+        content: '42';
+    }
+
+    7% {
+        content: '43';
+    }
+
+    8% {
+        content: '8';
+    }
+
+    9% {
+        content: '9';
+    }
+
+    10% {
+        content: '100';
+    }
+
+    11% {
+        content: '101';
+    }
+
+    12% {
+        content: '120';
+    }
+
+    13% {
+        content: '130';
+    }
+
+    14% {
+        content: '140';
+    }
+
+    15% {
+        content: '150';
+    }
+
+    16% {
+        content: '160';
+    }
+
+    17% {
+        content: '170';
+    }
+
+    18% {
+        content: '180';
+    }
+
+    19% {
+        content: '190';
+    }
+
+    20% {
+        content: '200';
+    }
+
+    21% {
+        content: '210';
+    }
+
+    22% {
+        content: '220';
+    }
+
+    23% {
+        content: '230';
+    }
+
+    24% {
+        content: '240';
+    }
+
+    25% {
+        content: '250';
+    }
+
+    26% {
+        content: '260';
+    }
+
+    27% {
+        content: '207';
+    }
+
+    28% {
+        content: '280';
+    }
+
+    29% {
+        content: '290';
+    }
+
+    30% {
+        content: '300';
+    }
+
+    31% {
+        content: '310';
+    }
+
+    320% {
+        content: '320';
+    }
+
+    33% {
+        content: '330';
+    }
+
+    34% {
+        content: '340';
+    }
+
+    35% {
+        content: '350';
+    }
+
+    36% {
+        content: '360';
+    }
+
+    37% {
+        content: '370';
+    }
+
+    38% {
+        content: '380';
+    }
+
+    40% {
+        content: '400';
+    }
+
+    41% {
+        content: '410';
+    }
+
+    42% {
+        content: '420';
+    }
+
+    43% {
+        content: '430';
+    }
+
+    44% {
+        content: '440';
+    }
+
+    45% {
+        content: '450';
+    }
+
+    46% {
+        content: '460';
+    }
+
+    47% {
+        content: '470';
+    }
+
+    48% {
+        content: '480';
+    }
+
+    49% {
+        content: '409';
+    }
+
+    50% {
+        content: '500';
+    }
+
+    54% {
+        content: '540';
+    }
+
+
+    57% {
+        content: '570';
+    }
+
+    58% {
+        content: '580';
+    }
+
+    59% {
+        content: '590';
+    }
+
+    60% {
+        content: '600';
+    }
+
+    61% {
+        content: '610';
+    }
+
+    62% {
+        content: '620';
+    }
+
+    63% {
+        content: '630';
+    }
+
+    66% {
+        content: '660';
+    }
+
+    67% {
+        content: '670';
+    }
+
+    68% {
+        content: '680';
+    }
+
+    69% {
+        content: '690';
+    }
+
+    70% {
+        content: '700';
+    }
+
+    71% {
+        content: '710';
+    }
+
+    72% {
+        content: '720';
+    }
+
+    73% {
+        content: '730';
+    }
+
+    74% {
+        content: '740';
+    }
+
+    75% {
+        content: '750';
+    }
+
+    76% {
+        content: '760';
+    }
+
+    77% {
+        content: '770';
+    }
+
+    78% {
+        content: '780';
+    }
+
+    79% {
+        content: '790';
+    }
+
+    80% {
+        content: '800';
+    }
+
+    81% {
+        content: '810';
+    }
+
+    82% {
+        content: '820';
+    }
+
+    83% {
+        content: '830';
+    }
+
+    84% {
+        content: '840';
+    }
+
+    85% {
+        content: '850';
+    }
+
+    86% {
+        content: '860';
+    }
+
+    87% {
+        content: '870';
+    }
+
+    88% {
+        content: '880';
+    }
+
+    89% {
+        content: '890';
+    }
+
+    90% {
+        content: '900';
+    }
+
+    91% {
+        content: '910';
+    }
+
+    92% {
+        content: '920';
+    }
+
+    93% {
+        content: '930';
+    }
+
+    94% {
+        content: '940';
+    }
+
+    95% {
+        content: '950';
+    }
+
+    96% {
+        content: '960';
+    }
+
+    97% {
+        content: '970';
+    }
+
+    98% {
+        content: '980';
+    }
+
+    99% {
+        content: '990';
+    }
+
+    100% {
+        content: '1000';
+    }
+}
+
+.not25::after {
+    content: '25';
+    animation: not25 2s 1;
+}
+
+@keyframes not25 {
+    1% {
+        content: '1';
+    }
+
+    2% {
+        content: '2';
+    }
+
+    3% {
+        content: '3';
+    }
+
+    4% {
+        content: '4';
+    }
+
+    5% {
+        content: '5';
+    }
+
+    6% {
+        content: '6';
+    }
+
+    7% {
+        content: '7';
+    }
+
+    8% {
+        content: '8';
+    }
+
+    9% {
+        content: '9';
+    }
+
+    10% {
+        content: '10';
+    }
+
+    11% {
+        content: '11';
+    }
+
+    12% {
+        content: '12';
+    }
+
+    13% {
+        content: '13';
+    }
+
+    14% {
+        content: '14';
+    }
+
+    15% {
+        content: '15';
+    }
+
+    16% {
+        content: '16';
+    }
+
+    17% {
+        content: '17';
+    }
+
+    18% {
+        content: '18';
+    }
+
+    19% {
+        content: '19';
+    }
+
+    20% {
+        content: '20';
+    }
+
+    21% {
+        content: '21';
+    }
+
+    22% {
+        content: '22';
+    }
+
+    23% {
+        content: '23';
+    }
+
+    24% {
+        content: '24';
+    }
+
+    25% {
+        content: '25';
+    }
+}
+
+.not3::after {
+    content: '3';
+    animation: not3 1s 1;
+}
+
+@keyframes not3 {
+    1% {
+        content: '1';
+    }
+
+    50% {
+        content: '2';
+    }
+
+    100% {
+        content: '3';
+    }
+}
+
+
+.events5::after {
+    content: '5';
+    animation: events6 1s 1;
+}
+
+@keyframes events6 {
+    1% {
+        content: '1';
+    }
+
+
+    20%{
+        content: '2';
+    }
+    50% {
+        content: '3';
+    }
+
+    75%{
+        content: '4';
+    }
+    100% {
+        content: '5';
+    }
+}

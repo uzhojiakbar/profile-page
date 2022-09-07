@@ -1,0 +1,140 @@
+.title {
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-weight: 900;
+}
+
+
+.mail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.g-mail {
+    margin: 0 auto;
+    display: flex;
+    padding-left: 20px;
+    padding-right: 100px;
+    height: 50px;
+    font-size: 22px;
+    background-color: #4f577c;
+    align-items: center;
+}
+
+.maille {
+    /* color: red; */
+    height: 50px;
+    border: none;
+    background-color: #4f577c;
+    color: #fff;
+    margin-left: 10px;
+    outline: none;
+    border: none;
+}
+
+.maille::placeholder {
+    color: #fff;
+}
+
+.signin-btn {
+    width: 40%;
+    margin: 0 auto;
+    height: 45px;
+    background-color: #e54964;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: 900;
+}
+
+.signin-btn:hover {
+    background-color: #b85162;
+}
+
+.signin-btn:active {
+    background-color: #742633;
+}
+
+.sign-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*  */
+
+/*  */
+
+.forget-psw {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.forget-password {
+    text-decoration: none;
+    font-size: 15px;
+}
+
+
+.with {
+    display: flex;
+    color: white;
+    font-size: 14px;
+    padding: 10px;
+    text-decoration: none;
+}
+
+.fa-facebook{
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.fa-google-plus{
+    color: #fff;
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.fb:hover {
+    background-color: #3466b1d7;
+}
+
+.fb:active {
+    background-color: #3466b17c;
+}
+
+.google {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 70px;
+    background-color: #cf2f49;
+    justify-content: center;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+
+.fb {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    background-color: #3465b1;
+}
+.google:hover {
+    background-color: #cf2f4ad8;
+}
+
+.google:active {
+    background-color: #cf2f4ad5;
+}

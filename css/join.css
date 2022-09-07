@@ -1,0 +1,75 @@
+.join {
+    background-color: #394166;
+    height: 220px;
+    width: 34%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    border-radius: 25px;
+}
+
+
+.email-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+.emaill{
+    padding-left: 10px;
+    padding-right: 40px;
+    height: 50px;
+    font-size: 22px;
+    background-color: #4f577c;
+}
+
+.email-type {
+    height: 50px;
+    border: none;
+    background-color: #4f577c;
+    color: #fff;
+    margin-left: 10px;
+    outline: none;
+}
+
+.email-type::placeholder {
+    color: #fff;
+}
+
+.btn-send-mail{
+    width: 50%;
+    height: 40px;
+    background-color: #02a7ad;
+    outline: none;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: white;
+}
+
+.btn-send-mail:hover{
+    background-color: #24e1e7c4;
+}
+
+.btn-send-mail:active{
+    background-color: #45dadfa6;
+}
+
+
+.uppercase{
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.btn-send{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

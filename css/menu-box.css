@@ -1,0 +1,89 @@
+.main-menu {
+    margin: 0 auto;
+    width: 1230px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box-main {
+    height: 350px;
+    width: 32%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+/* Menu Box statrt */
+
+
+.title-menu-box {
+    width: 100%;
+    height: 20%;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: #02a7ad;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 3px 10px #000;
+}
+
+
+.title-menubox-item {
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+    font-weight: 600;
+}
+
+
+.box-links {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box-link {
+    width: 300px;
+}
+
+.box-link i {
+    margin-right: 15px;
+}
+
+.box-link1 {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.box-link:hover {
+    color: orange;
+}
+
+.not {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #51567b;
+    padding: 8px 15px;
+    border-radius: 40px;
+    color: white;
+    width: 45px;
+}
+
+
+.card {
+    display: flex;
+    align-items: center;
+    background-color: #394166;
+    width: 100%;
+    height: 54px;
+}
+
+.stat{
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+/* Menu Box end */

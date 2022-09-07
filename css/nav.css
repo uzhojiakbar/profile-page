@@ -1,0 +1,104 @@
+nav {
+    background-color: #394166;
+    width: 1240px;
+    height: 70px;
+    margin-top: 20px;
+    padding-top: 10px;
+    margin: 20px auto;
+    border-radius: 25px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    /* border: 1px solid red; */
+}
+
+nav ul li {
+    list-style: none;
+    margin-left: 10px;
+    /* border: 1px solid blue; */
+
+}
+
+nav ul li a {
+    font-size: 18px;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    padding: 2px;
+}
+
+nav ul :is(.text, .select):hover {
+    transition: .2s;
+    color: orange;
+}
+
+body :is(.text, .select):active {
+    transition: .2s;
+    color: rgba(255, 166, 0, 0.637);
+}
+
+small {
+    background-color: #de859b;
+    padding: 1px 3px;
+    position: relative;
+    bottom: 9px;
+    border-radius: 50%;
+}
+
+
+.notifications {
+    font-size: 15px;
+    padding: 1px;
+    color: white;
+}
+
+.notifications:hover{
+    color: white;
+}
+
+.select {
+    background-color: transparent;
+    border: none;
+    color: white;
+    position: relative;
+    outline: none;
+    padding: 10px;
+}
+
+.s-opt {
+    color: #000;
+}
+
+
+.me-photo-link {
+    display: flex;
+    justify-content: right;
+}
+
+
+.me-photo {
+    width: 60px;
+    border-radius: 50%;
+}
+
+
+.profile-me-logo {
+    width: 55%;
+    display: flex;
+    justify-content: end;
+}
+
+
+.img-me-profile-photo {
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 10px;
+    border: 1px solid white;
+}
+
+.img-me-profile-photo:hover {
+    border-radius: 10px;
+    transition: .4s;
+}

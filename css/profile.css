@@ -1,0 +1,108 @@
+/* profile-main statrt */
+
+.profile-main {
+    background-color: #394166;
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 25px;
+}
+
+
+.join {
+    background-color: #394166;
+    height: 220px;
+    width: 34%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.center {
+    text-align: center;
+}
+
+.plus {
+    padding: 10px;
+    width: 95%;
+    font-size: 32px;
+    display: flex;
+    justify-content: end;
+}
+
+i:hover {
+    color: #fff;
+}
+
+i:active {
+    color: rgba(255, 255, 255, 0.774);
+}
+
+.main-photo {
+    width: 140px;
+    border-radius: 70px;
+    border: 1px solid white;
+}
+
+.main-photo:hover {
+    transition: .3s;
+    border-radius: 20px;
+}
+
+.my-name {
+    margin: 10px 0;
+    color: white;
+}
+
+.about-me {
+    margin: 0 auto;
+    width: 300px;
+    color: #9fa8c9;
+}
+
+a {
+    /* text-decoration: none; */
+    color: #9fa8c9;
+}
+
+.bottoms {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    gap: 1px;
+}
+
+.bottom-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    margin-top: 50px;
+    border-top: 4px solid orange;
+    width: 33%;
+    font-size: 22px;
+    color: white;
+}
+
+.u1 {
+    margin-right: 10px;
+}
+
+.heart {
+    border-top: 4px solid red;
+}
+
+
+
+
+.fa-heart:hover {}
+
+.view {
+    border-left: 1px solid #20243f;
+    border-right: 1px solid #20243f;
+    border-top: 4px solid #02a7ad;
+}
+
+/* profile-main end */
